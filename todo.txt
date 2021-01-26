@@ -8,4 +8,8 @@ Syntax :
 - Conditionals
 
 High OrderArray Methods:
-- Manipulating Data (forEach, map, filter, reduce)
+Manipulating Data :
+- forEach
+- map
+- filter
+- reduce
