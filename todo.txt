@@ -1,5 +1,5 @@
 JavaScript Basics :
-Syntax 
+Syntax :
 - Variables
 - Arrays/Objects
 - Events
