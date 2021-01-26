@@ -1,2 +1,5 @@
 JavaScript Basics :
 Syntax, Variables, Arrays/Objects, Events, Functions, Loops, Conditionals
+
+High OrderArray Methods:
+Manipulating Data : forEach
